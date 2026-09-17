@@ -1,0 +1,6 @@
+{
+  "name": "Site Vitrine Professionnel",
+  "description": "Site vitrine moderne, réactif et clé en main pour petites entreprises, artisans, commerces et prestataires de services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
